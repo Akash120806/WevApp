@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 @RestController
-public class +3333333333333rabc {
+public class abc {
 
     @Autowired
     private Student student;
